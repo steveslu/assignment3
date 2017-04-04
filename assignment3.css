@@ -1,1 +1,36 @@
 /*styles for assignment 3*/
+.home{
+	border: 3px solid white;
+	margin-bottom: 20px;
+	background-color:brown;
+	color:white;
+}
+
+.away{
+	border: 3px solid white;
+	margin-bottom: 20px;	
+	background-color:slategrey;
+	color:white;
+}
+
+.gamesum{
+	border: 1px solid white;
+	margin-bottom: 20px;	
+	background-color:red;
+	color:white;
+	text-align:center;
+	
+}
+
+.half{
+	border: 1px solid white;
+	margin-bottom: 20px;	
+	background-color:red;
+	color:white;
+	text-align:center;
+	
+}
+body{
+	background-color:green;
+	
+}
